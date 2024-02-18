@@ -1,6 +1,6 @@
 <font color="#9900FF"><h1 align="center">Hi 👋, I'm Ranjan GR</h1></font>
 <h3 align="center">I'm currently pursuing my B.Tech degree at Reva University <br>with a focus on mastering various programming languages <br>including C, Java, Python, HTML, CSS, and JavaScript.<br>I'm eager to apply my skills to real-world projects</h3>
-<center><image  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"</image>
+<br><br></bt><center><image  alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"</image>
 <p> <img src="https://komarev.com/ghpvc/?username=ranjan931&label=Profile%20views&color=0e75b6&style=flat" alt="ranjan931" /> </p>
 
 <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjan931" alt="ranjan931" /></a> </p>
